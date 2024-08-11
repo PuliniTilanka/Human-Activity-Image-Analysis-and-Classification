@@ -8,9 +8,9 @@ Label human activity images into 5 categories (very good, good, neutral, bad, ve
  • Very Bad : Activities that have severe and widespread negative impacts on society (Murder, Stabbing, hitting people, suicides)
 
 # Technologies
-# Deep Learning,
-# Pyhton,
-# Machine Learning
+ Deep Learning,
+ Pyhton,
+ Machine Learning
 
 # Limitations
  Images without Texts,
